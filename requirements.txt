@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+
+
+-e .  # installs the package in editable mode
